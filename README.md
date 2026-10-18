@@ -31,7 +31,13 @@ created ──► paid ──► (refunded)
 
 ## 📸 Screenshots
 
-<!-- screenshots -->
+| Catalog | Product: pay with Stars or USDT | USDT invoice in Crypto Bot |
+|---|---|---|
+| ![Catalog](screenshots/catalog.png) | ![Product](screenshots/product.png) | ![USDT invoice](screenshots/usdt-invoice.png) |
+
+| Telegram Stars invoice | Admin: /orders summary |
+|---|---|
+| ![Stars invoice](screenshots/stars-invoice.png) | ![Orders](screenshots/admin-orders.png) |
 
 ## 🚀 Run
 
