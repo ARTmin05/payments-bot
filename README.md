@@ -4,6 +4,8 @@ A Telegram shop bot that accepts payments in **Telegram Stars** and **USDT** via
 
 Built by someone who handles payments for a living (L2 Payment Support: cards, e-wallets, crypto deposits) — so the edge cases are covered: duplicate payment notifications, expired invoices, refunds, payment provider downtime.
 
+👉 **Try it live:** [@artmin_shop_demo_bot](https://t.me/artmin_shop_demo_bot) (USDT payments run on the Crypto Bot testnet)
+
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-3-26A5E4?logo=telegram&logoColor=white)
 ![Stars](https://img.shields.io/badge/Telegram_Stars-XTR-F5A623)
